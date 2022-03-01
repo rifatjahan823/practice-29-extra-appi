@@ -1,0 +1,16 @@
+#div{
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+    padding: 20px;
+}
+.style{
+    background-color: bisque; 
+}
+.image{
+    border-radius: 50%;
+    border:1px solid black;
+}
+.random p{
+    margin-top: -2%;
+}
